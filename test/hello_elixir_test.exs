@@ -2,7 +2,8 @@ defmodule HelloElixirTest do
   use ExUnit.Case
   doctest HelloElixir
 
-  test "the truth" do
-    assert 1 + 1 == 2
+  test "hello" do
+    assert "Hello! Taro" == HelloElixir.hello("Taro")
   end
+
 end
