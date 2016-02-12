@@ -1,5 +1,7 @@
 # HelloElixir
 
+[![Build Status](https://travis-ci.org/mtomokazu/hello_elixir.svg?branch=master)](https://travis-ci.org/mtomokazu/hello_elixir)
+
 ## Environment
 
 Erlang, Elixir, Mix
