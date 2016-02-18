@@ -31,6 +31,10 @@ Run test.
 
     $ mix test
 
+## Create Doctest
+
+Example from http://qiita.com/ma2ge/items/b6b26335ecc1b2181897
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
